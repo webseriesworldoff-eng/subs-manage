@@ -1647,7 +1647,7 @@ export default function App() {
     customers: <CustomersPage data={data} setData={setData} />,
     subscriptions: <SubscriptionsPage data={data} setData={setData} />,
     accounts: <AccountsPage data={data} setData={setData} />,
-    renewals: <RenewalsPage data={data} setData={setData} />,
+    renewalss: <RenewalsPage data={data} setData={setData} />,
     payments: <PaymentsPage data={data} setData={setData} />,
     expenses: <ExpensesPage data={data} setData={setData} />,
     revenue: <RevenuePage data={data} />,
